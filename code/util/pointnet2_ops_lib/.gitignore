@@ -1,0 +1,4 @@
+# ignore all except .gitignore file
+build/
+dist/
+pointnet2_ops.egg-info/
