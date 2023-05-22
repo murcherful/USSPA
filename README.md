@@ -1,7 +1,7 @@
 # USSPA: Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion
 
 This repository contains PyTorch implementation for **Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion** (CVPR2023).
-
+YouTube: https://youtu.be/1iWvKcR9DzA
 
 ## Start
 ### Requirements
